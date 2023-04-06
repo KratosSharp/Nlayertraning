@@ -15,7 +15,7 @@
 <h2>Technologies Used</h2>
 
 <ul>
-	<li>.NET Core 6</li>
+	<li>.NET 6</li>
 	<li>Redis</li>
 	<li>Entity Framework Core</li>
 	<li>Filters</li>
