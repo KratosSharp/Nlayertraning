@@ -4,8 +4,8 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<h1>Traning</h1>
-  <p>This is a .NET Core project that uses Redis, Entity Framework, Filters, MemoryCache, Unit Testing with XUnit, MSSQL, and Clean Architecture.</p>
+	<h1>Clean Architecture</h1>
+  <p>This is a .NET Core project that uses Redis, Entity Framework, Filters, MemoryCache, Unit Testing with XUnit, MSSQL, and Clean Architecture. In addition, this project shows how to implement the Decorator and Proxy design patterns to achieve better separation of concerns and modularity.</p>
 
 <h2>Project Description</h2>
 
@@ -33,6 +33,7 @@
 	<li>Infrastructure</li>
 	<li>Presentation</li>
 </ul>
+<p>In addition, the project uses the Decorator and Proxy design patterns to implement cross-cutting concerns and modular functionality.	</p>
 
 <h2>Installation</h2>
 
