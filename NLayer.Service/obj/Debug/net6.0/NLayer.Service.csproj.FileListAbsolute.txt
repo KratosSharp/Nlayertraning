@@ -1,0 +1,17 @@
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Service.deps.json
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Service.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Service.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.csproj.AssemblyReference.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.AssemblyInfoInputs.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.AssemblyInfo.cs
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.csproj.CoreCompileInputs.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/refint/NLayer.Service.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/ref/NLayer.Service.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Core.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Repository.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Repository.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/Debug/net6.0/NLayer.Service.csproj.CopyComplete

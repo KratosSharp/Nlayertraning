@@ -1,0 +1,17 @@
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.deps.json
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.runtimeconfig.json
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.AssemblyReference.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfoInputs.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfo.cs
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CoreCompileInputs.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CopyComplete
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/refint/NLayer.Repository.dll
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.pdb
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.genruntimeconfig.cache
+/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/Debug/net6.0/ref/NLayer.Repository.dll

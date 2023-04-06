@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mirzayevmv/RiderProjects/Nlayertraning/Nllayer.Caching/Nllayer.Caching.csproj": {}
+  },
+  "projects": {
+    "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/NLayer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/NLayer.Core.csproj",
+        "projectName": "NLayer.Core",
+        "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/NLayer.Core.csproj",
+        "packagesPath": "/Users/mirzayevmv/.nuget/packages/",
+        "outputPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mirzayevmv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/NLayer.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/NLayer.Repository.csproj",
+        "projectName": "NLayer.Repository",
+        "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/NLayer.Repository.csproj",
+        "packagesPath": "/Users/mirzayevmv/.nuget/packages/",
+        "outputPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mirzayevmv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/NLayer.Core.csproj": {
+                "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Core/NLayer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/NLayer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/NLayer.Service.csproj",
+        "projectName": "NLayer.Service",
+        "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/NLayer.Service.csproj",
+        "packagesPath": "/Users/mirzayevmv/.nuget/packages/",
+        "outputPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mirzayevmv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/NLayer.Repository.csproj": {
+                "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Repository/NLayer.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mirzayevmv/RiderProjects/Nlayertraning/Nllayer.Caching/Nllayer.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mirzayevmv/RiderProjects/Nlayertraning/Nllayer.Caching/Nllayer.Caching.csproj",
+        "projectName": "Nllayer.Caching",
+        "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/Nllayer.Caching/Nllayer.Caching.csproj",
+        "packagesPath": "/Users/mirzayevmv/.nuget/packages/",
+        "outputPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/Nllayer.Caching/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mirzayevmv/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/NLayer.Service.csproj": {
+                "projectPath": "/Users/mirzayevmv/RiderProjects/Nlayertraning/NLayer.Service/NLayer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.96, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
