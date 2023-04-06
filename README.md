@@ -2,10 +2,9 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Project Title</title>
 </head>
 <body>
-	<h1>Project Title</h1>
+	<h1>Traning</h1>
   <p>This is a .NET Core project that uses Redis, Entity Framework, Filters, MemoryCache, Unit Testing with XUnit, MSSQL, and Clean Architecture.</p>
 
 <h2>Project Description</h2>
