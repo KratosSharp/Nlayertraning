@@ -68,7 +68,7 @@ public class ProductServiceWithCaching:IProductService
 
     public async Task AddRangeAsync(IEnumerable<Product> entities)
     {
-       await _productRepository.AddRangeAsync(entities)
+        await _productRepository.AddRangeAsync(entities);
     }
 
     public async Task UpdateAsync(Product entity)
